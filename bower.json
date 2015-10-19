@@ -1,0 +1,36 @@
+{
+  "name": "reactfire-crud",
+  "version": "1.0.0",
+  "description": "React Fire Simple Crud using Bootstrap and Gulp",
+  "main": "app/index.html",
+  "keywords": [
+    "react",
+    "firebase",
+    "gulp",
+    "simple",
+    "crud"
+  ],
+  "authors": [
+    "jethro91"
+  ],
+  "license": "ISC",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "firebase": "~2.3.1",
+    "font-awesome": "~4.4.0",
+    "lodash": "~3.10.1",
+    "moment": "~2.10.6",
+    "numeral": "~1.5.3",
+    "react": "~0.14.0",
+    "react-router": "~0.13.4",
+    "reactfire": "~0.5.1"
+  }
+}
