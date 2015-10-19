@@ -1,5 +1,5 @@
 {
-  "name": "reactfire-crud",
+  "name": "jet-reactfire",
   "version": "1.0.0",
   "description": "React Fire Simple Crud using Bootstrap and Gulp",
   "main": "app/index.html",
