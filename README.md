@@ -1,2 +1,2 @@
 # jet-reactfire
-React FIrebase simple app
+React Firebase simple app
